@@ -1,4 +1,4 @@
-# **Electrical Components**
+# **⚡Electrical Components**
 
 This section consists of schematic diagrams which depict the various connections between all of the electrical components used throughout this project as well as the specifications for each of the components. It also consists of a brief overview of the component selection process.
 
